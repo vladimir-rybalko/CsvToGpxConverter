@@ -1,0 +1,1 @@
+python -m pyinstaller --debug --onefile --noupx CsvToGpxConverter.py
