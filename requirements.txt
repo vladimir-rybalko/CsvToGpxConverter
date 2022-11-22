@@ -32,7 +32,7 @@ OWSLib==0.14.0
 pandas==0.20.3
 pbr==1.8.1
 pefile==2017.9.3
-Pillow==6.2.0
+Pillow==9.3.0
 psycopg2==2.5.1
 Pygments==1.6
 PyInstaller==3.6
